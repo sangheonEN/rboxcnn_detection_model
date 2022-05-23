@@ -1,14 +1,3 @@
-###############################################################################
-# Developed 2018 by SIA, SI Analytics, Co., Ltd.                              #
-# 441 Expo-ro, Yuseong-gu, Daejeon, 305-714, Korea (Munji R&D)                #
-# SI Analytics http://www.si-a.ai All rights reserved.                        #
-#                                                                             #
-# This software is the confidential information of SIA                        #
-# You shall not disclose such Confidential Information                        #
-# and shall use it only in accordance with the terms of the license agreement #
-# you entered into with SIA.                                                  #
-###############################################################################
-
 
 import os, glob
 import argparse
